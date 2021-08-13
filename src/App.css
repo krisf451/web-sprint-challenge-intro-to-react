@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
 .App {
   text-align: center;
 }
@@ -6,3 +8,13 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+
+.card-img-top {
+  /* width: 200px;
+  height: 200px; */
+}
+.card {
+  margin-top: 20px;
+  padding: 4%;
+  font-family: "Roboto Mono", monospace;
+}
